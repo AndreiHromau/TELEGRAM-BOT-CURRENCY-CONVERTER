@@ -21,11 +21,13 @@
 :white_check_mark:   Получение данных из НБРБ(Национальный банк Республики Беларусь): https://www.nbrb.by/api/exrates/rates/
 
 ## Установка 
-**1.Склонируйте репозиторий и запустите проект в Intellij Idea**;
+**1.Склонируйте репозиторий, напишите официальному боту в тг @BotFather для регистрации бота и получение токена**;
 <br>
-**2.В тг найдите в поиске и интегрируйте бота AndreasCurrencyConverterBot в свой канал или в переписку**; 
+**2.В application.properties bot.token="интегрируйте ваш полученный токен" и запустите проект в Intellij Idea**;
 <br>
-**3.Пропишите команду /begin для запуска бота**. 
+**3.В тг найдите в поиске и интегрируйте бота @AndreasCurrencyConverterBot в свой канал или в переписку**; 
+<br>
+**4.Пропишите команду /begin для запуска бота**. 
 <br>
 :black_square_button: :black_square_button: :black_square_button:
 
